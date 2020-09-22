@@ -1,0 +1,10 @@
+Package: me.zsaaiq.ftumblrads
+Name: F Tumblr Ads
+Author: zSaaiq
+Description: Removes Tumblr Ads :) Happy fapping!
+Depends: mobilesubstrate
+Maintainer: zSaaiq
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 168
